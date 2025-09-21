@@ -3,7 +3,7 @@
 A powerful web-based WhatsApp automation tool that allows you to schedule and send WhatsApp messages programmatically. Built with FastAPI, SQLAlchemy, and Selenium for reliable message delivery.
 
 <p align="center">
-    <img width="1305" height="898" alt="image" src="https://github.com/user-attachments/assets/cbab7673-1cc0-4343-b65e-40a147c05d23" />
+    <img width="1306" height="892" alt="image" src="https://github.com/user-attachments/assets/435c1f49-0114-4a53-9666-4d5bff5f848d" />
 </p>
 
 ## 🚀 Features
